@@ -1,2 +1,2 @@
 # gcr.io
-Test k8s.gcr.io Image
+获取 gcr.io 镜像
