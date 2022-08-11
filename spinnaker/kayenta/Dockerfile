@@ -1,0 +1,1 @@
+FROM us-docker.pkg.dev/spinnaker-community/docker/kayenta:2.31.2
