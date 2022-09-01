@@ -1,1 +1,1 @@
-FROM us-docker.pkg.dev/spinnaker-community/docker/igor:4.6.4
+FROM us-docker.pkg.dev/spinnaker-community/docker/igor:4.7.2
