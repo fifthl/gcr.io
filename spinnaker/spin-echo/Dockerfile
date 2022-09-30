@@ -1,1 +1,2 @@
 FROM us-docker.pkg.dev/spinnaker-community/docker/echo:2.34.2
+ENV TZ=Asia/Shanghai
