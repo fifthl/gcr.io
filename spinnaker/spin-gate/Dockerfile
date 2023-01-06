@@ -1,2 +1,6 @@
-FROM us-docker.pkg.dev/spinnaker-community/docker/gate:6.55.2
-ENV TZ=Asia/Shanghai
+FROM us-docker.pkg.dev/spinnaker-community/docker/gate:1.23.0-20220103140018
+
+#FROM us-docker.pkg.dev/spinnaker-community/docker/gate:6.57.0
+
+# 1.26.7
+# FROM us-docker.pkg.dev/spinnaker-community/docker/gate:1.22.2-20211214195244
