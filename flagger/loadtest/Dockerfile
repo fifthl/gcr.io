@@ -1,0 +1,1 @@
+FROM ghcr.io/fluxcd/flagger-loadtester:0.28.1
