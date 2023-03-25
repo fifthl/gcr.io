@@ -1,0 +1,1 @@
+FROM ghcr.io/fluxcd/flagger:1.29.0
