@@ -1,4 +1,4 @@
-FROM us-docker.pkg.dev/spinnaker-community/docker/gate:1.23.0-20220103140018
+FROM us-docker.pkg.dev/spinnaker-community/docker/gate:6.60.1
 
 #FROM us-docker.pkg.dev/spinnaker-community/docker/gate:6.57.0
 
