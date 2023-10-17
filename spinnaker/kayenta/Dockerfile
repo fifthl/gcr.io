@@ -1,1 +1,1 @@
-FROM us-docker.pkg.dev/spinnaker-community/docker/kayenta:2.35.0
+FROM s-docker.pkg.dev/spinnaker-community/docker/kayenta:2.38.0
