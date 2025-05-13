@@ -1,1 +1,1 @@
-FROM registry.k8s.io/ingress-nginx/controller:v1.8.2@sha256:74834d3d25b336b62cabeb8bf7f1d788706e2cf1cfd64022de4137ade8881ff2
+FROM registry.k8s.io/ingress-nginx/controller:v1.12.2@sha256:03497ee984628e95eca9b2279e3f3a3c1685dd48635479e627d219f00c8eefa9
