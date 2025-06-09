@@ -1,0 +1,1 @@
+FROM victoriametrics/vmagent:v1.118.0
